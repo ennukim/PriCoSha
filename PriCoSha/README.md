@@ -20,16 +20,21 @@ o A User may defriend another user by completing a form. When the form submits a
 •Add Comments
 
 o Users can add comments about a content that is accessible to them. Words and emoji are stored as data and comments are visible to all group members that are in that specific FriendGroup. 
+
 o This feature is necessary to share thoughts about the content among the members of the group.
+
 o Requires a new table 'Comment'
 
 •Archive
 o When the user clicks the button archive on a content item, the corresponding item will be saved in the archive folder which can be found in the sidebar.
+
 o This feature is necessary since the contents that were posted long ago are difficult to retrieve unless it’s archived. Thus, this function allows the user to archive (“save for later”) the content so that they can access the content on their private account more easily.
+
 o Requires a new table 'Archive'
 	
 •Tagging a Group
 o Instead of tagging a person one by one, a user can tag a group of people at once. When tagging, all individuals in that group must agree to the tagging in order to make the tag visible. 
+
 o Requires a new table 'TagFriendGroup'
 
 
