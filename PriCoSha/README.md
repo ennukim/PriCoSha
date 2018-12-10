@@ -42,12 +42,13 @@ Contributions
 - Post a content item
 - Tag a content item
 - *Archive
+- *Defriend
 
 •Jungho Kook (jk5541)
 - Add friend
 - *Tag as a group
 - *Add comment
-- *Defriend
+
 
 •EunSoo (Sally) Kim (ek2777)
 - Proposed ideas for additional features
