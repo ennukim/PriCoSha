@@ -30,7 +30,7 @@ Extra Features (total of 4)
 	o Requires a new table 'TagFriendGroup'
 
 
-
+================================================================
 
 
 Contributions
@@ -42,7 +42,6 @@ Contributions
 - Manage tags
 - Post a content item
 - Tag a content item
-- *Archive
 - *Defriend
 
 •Jungho Kook (jk5541)
