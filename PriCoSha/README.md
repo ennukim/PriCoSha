@@ -12,6 +12,7 @@ Users will be able to log in, post content items, where the user may choose any 
 
 
 Extra Features (total of 4)
+
 •Defriend
 	o A User may defriend another user by completing a form. When the form submits and runs succesfully, the user that you just defriended will be removed from your FriendGroup list and all the tags of that defriended user will also be removed.
 
