@@ -26,6 +26,7 @@ o This feature is necessary to share thoughts about the content among the member
 o Requires a new table 'Comment'
 
 •Archive
+
 o When the user clicks the button archive on a content item, the corresponding item will be saved in the archive folder which can be found in the sidebar.
 
 o This feature is necessary since the contents that were posted long ago are difficult to retrieve unless it’s archived. Thus, this function allows the user to archive (“save for later”) the content so that they can access the content on their private account more easily.
@@ -33,6 +34,7 @@ o This feature is necessary since the contents that were posted long ago are dif
 o Requires a new table 'Archive'
 	
 •Tagging a Group
+
 o Instead of tagging a person one by one, a user can tag a group of people at once. When tagging, all individuals in that group must agree to the tagging in order to make the tag visible. 
 
 o Requires a new table 'TagFriendGroup'
