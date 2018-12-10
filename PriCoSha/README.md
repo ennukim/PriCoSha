@@ -1,13 +1,13 @@
 
 Project Proposal
 
-	Using the basic and advanced knowledge on MySQL and PHP, we've developed a web application called "PriCoSha". PriCoSha is a network service of social media sort that allows users to freely post content items and share them among groups of people. PriCoSha gives users somewhat more privacy than many content sharing sites by giving them more detailed control over who can see which content items they post and also give users the authority to accept, ignore or decline a tag when a tag request is sent from a tagger.
+Using the basic and advanced knowledge on MySQL and PHP, we've developed a web application called "PriCoSha". PriCoSha is a network service of social media sort that allows users to freely post content items and share them among groups of people. PriCoSha gives users somewhat more privacy than many content sharing sites by giving them more detailed control over who can see which content items they post and also give users the authority to accept, ignore or decline a tag when a tag request is sent from a tagger.
 
-Users will be able to log in, post content items, where the user may choose any kind of content e.g. photos, video clips, announcements on events, etc., and view (some of) the content items posted by others (public content and content posted by people who have given them access via a `friend’ mechanism). Users will also be able to use additional features provided, including defriend, add comment, archive, and tagging a group. Detailed explanation of them is presented below.
-
-
+Users will be able to log in, post content items, where the user may choose any kind of content e.g. photos, video clips, announcements on events, etc., and view (some of) the content items posted by others (public content and content posted by people who have given them access via a 'friend' mechanism). Users will also be able to use additional features provided, including defriend, add comment, archive, and tagging a group. Detailed explanation of them is presented below.
 
 
+
+===============================================================
 
 
 
@@ -34,6 +34,7 @@ Extra Features (total of 4)
 
 
 Contributions
+
 •Yewon Cho (yc2654)
 - View public content
 - Login
